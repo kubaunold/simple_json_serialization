@@ -1,0 +1,5 @@
+GPS_RAW_INT {time_usec : 41209000, fix_type : 6, lat : -353606846, lon : 1491644490, alt : 643950, eph : 121, epv : 200, vel : 2101, cog : 4276, satellites_visible : 10, alt_ellipsoid : 0, h_acc : 300, v_acc : 300, vel_acc : 40, hdg_acc : 0, yaw : 0}
+SYSTEM_TIME {time_unix_usec : 1637683078240785, time_boot_ms : 41300}
+SYSTEM_TIME {time_unix_usec : 1637683078240785, time_boot_ms : 41300}
+BATTERY_STATUS {id : 0, battery_function : 0, type : 0, temperature : 32767, voltages : [12341, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535], current_battery : 1894, current_consumed : 160, energy_consumed : 69, battery_remaining : 95, time_remaining : 0, charge_state : 1, voltages_ext : [0, 0, 0, 0], mode : 0, fault_bitmask : 0}
+SCALED_IMU2 {time_boot_ms : 36300, xacc : 131, yacc : -172, zacc : -1193, xgyro : 49, ygyro : 168, zgyro : 175, xmag : 246, ymag : -197, zmag : -486, temperature : 2727}
